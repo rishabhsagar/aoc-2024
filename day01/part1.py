@@ -13,4 +13,4 @@ def sum_of_differences(file_name):
 
 
 if __name__ == "__main__":
-    print(sum_of_differences("test.txt"))
+    print(sum_of_differences("input.txt"))
